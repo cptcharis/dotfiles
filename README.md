@@ -21,4 +21,4 @@ fi
 
 
 # additional programs for i3/config file
-crops alsa-utils
+crops alsa-utils feh
