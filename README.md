@@ -11,6 +11,7 @@ install xorg-xinit
 
 # nano ~/.xinitrc
 #! /bin/bash
+
 exec i3
 
 # nano ~/.bash_profile
