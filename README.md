@@ -3,7 +3,9 @@ dotfiles for vim and i3 wm set up
 
 # Instal i3 in linux
 install i3 # any version
-install xorg-server 
+
+install xorg-server
+
 install xorg-xinit 
 
 
