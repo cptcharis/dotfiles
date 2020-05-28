@@ -211,4 +211,5 @@ bindsym $mod+Print exec scrot '%Y%m%d_%Ho%M%S.png' -e 'mv $f ~/Pictures/shots/'
 bar{
 	status_command i3status -c ~/.i3status
 	font pango:Hack, FontAwesome 10
+	position top
  }
