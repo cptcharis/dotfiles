@@ -190,8 +190,8 @@ bindsym $mdo+u border none
 bindsym XF86MonoBrighnessDown spawn xbacklight -dec 10
 bindsym XF86MonoBrighnessUp spawn xbacklight -inc 10
 
-
-
+#run ranger
+bindsym $mod+b exec urxvt -e ranger
 
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
